@@ -1,5 +1,5 @@
 import {ADD_CHARACTER} from '../actions';
-import { creacteCharacter }from './helpers';
+import { createCharacter } from './helpers';
 
 
 function heroes(state = [], action ){
